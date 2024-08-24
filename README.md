@@ -24,3 +24,4 @@ Their revenue management team had decided to hire a 3rd party service provider t
            Although, by default, while calculating average, blank values are ignored.
 
 
+![Screenshot 2024-08-23 204027](https://github.com/user-attachments/assets/69dc2b41-0985-4798-9c92-ea53df7308fa)
